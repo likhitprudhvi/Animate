@@ -1,4 +1,5 @@
 🌐 Animate Website
+
 📖 About the Project
 
 Animate is a dynamic informational website developed to showcase news, community activities, and product details related to Maha Cement. The platform acts as a centralized hub where users can stay updated on company initiatives and explore cement products along with their specifications.
